@@ -9,4 +9,5 @@ GitGitHub ucuncu gun ilk deneme
 GitGitHub ucuncu gun ikinci deneme
 MASTER BRANCH YENI EKLEME
 GitGitHub ucuncu gun OZLEM BRANCHI ilk deneme
+MASTER BRANCH 2. EKLEME
 
